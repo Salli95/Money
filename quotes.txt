@@ -1,0 +1,147 @@
+
+
+
+US Dollar
+1.00 USD
+inv. 1.00 USD
+
+
+
+
+Argentine Peso
+854.206865
+0.001171
+
+
+Australian Dollar
+1.521932
+0.657059
+
+
+Bahraini Dinar
+0.376000
+2.659574
+
+
+Botswana Pula
+13.647433
+0.073274
+
+
+Brazilian Real
+4.974620
+0.201020
+
+
+Bruneian Dollar
+1.343867
+0.744121
+
+
+Bulgarian Lev
+1.800625
+0.555363
+
+
+Canadian Dollar
+1.353235
+0.738970
+
+
+Chilean Peso
+968.351292
+0.001033
+
+
+Chinese Yuan Renminbi
+7.199420
+0.138900
+
+
+Colombian Peso
+3903.753813
+0.000256
+
+
+Czech Koruna
+23.300983
+0.042917
+
+
+Danish Krone
+6.866125
+0.145643
+
+
+Euro
+0.920645
+1.086195
+
+
+Hong Kong Dollar
+7.821155
+0.127858
+
+
+Hungarian Forint
+363.463043
+0.002751
+
+
+Icelandic Krona
+136.722288
+0.007314
+
+
+Indian Rupee
+83.210940
+0.012018
+
+
+Indonesian Rupiah
+15708.673208
+0.000064
+
+
+Iranian Rial
+42317.087080
+0.000024
+
+
+Israeli Shekel
+3.606478
+0.277279
+
+
+Japanese Yen
+151.677961
+0.006593
+
+
+Kazakhstani Tenge
+450.461946
+0.002220
+
+
+South Korean Won
+1334.269942
+0.000749
+
+
+Kuwaiti Dinar
+0.307588
+3.251104
+
+
+Libyan Dinar
+4.785145
+0.208980
+
+
+Malaysian Ringgit
+4.714176
+0.212126
+
+
+Mauritian Rupe
+
