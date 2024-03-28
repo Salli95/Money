@@ -9,10 +9,10 @@ table = soup.find('table', class_='tablesorter ratesTable')
 VAR=[
     "Russian Ruble",
     "Euro",
-    "Kazakhstani Tenge",
-    "Emirati Dirham"
+    "Kazakhstani Tenge"
     ]
 Valut={} 
+
 if table :
     rows = table.find_all('tr')
     for row in rows:
@@ -26,4 +26,7 @@ if table :
             
 else:
     print("Таблица не найдена на странице.")
-print(Valut)
+# print(Valut)
+
+for key, value in Valut.items():
+  print("{0}: {1}".format(key,value))

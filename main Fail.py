@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter.ttk import Combobox  
+from парсингн import Valut
 
 def clicker():
     d
