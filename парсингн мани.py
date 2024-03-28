@@ -6,9 +6,13 @@ response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
 table = soup.find('table', class_='tablesorter ratesTable')
 
-VAR=["Russian Ruble","Euro","Kazakhstani Tenge","Emirati Dirham"]
-
-
+VAR=[
+    "Russian Ruble",
+    "Euro",
+    "Kazakhstani Tenge",
+    "Emirati Dirham"
+    ]
+Valut={} 
 if table :
     rows = table.find_all('tr')
     for row in rows:
@@ -17,6 +21,9 @@ if table :
             currency = cells[0].text.strip()
             rate = cells[1].text.strip()
             if currency in VAR:
-             print(f"{currency}: {rate}")
+             Valut[currency]=rate
+            #  print(f"{currency}: {rate}")
+            
 else:
     print("Таблица не найдена на странице.")
+print(Valut)
