@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 url = 'https://www.x-rates.com/table/?from=USD&amount=1'
 response = requests.get(url)
 soup = BeautifulSoup(response.text, 'html.parser')
-table = soup.find('table', class_='ratesTable')
+table = soup.find('table', class_='tablesorter ratesTable')
 
-if table:
+if table :
     rows = table.find_all('tr')
     for row in rows:
         cells = row.find_all('td')
