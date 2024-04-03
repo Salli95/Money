@@ -28,5 +28,5 @@ else:
     print("Таблица не найдена на странице.")
 # print(Valut)
 
-for key, value in Valut.items():
-  print("{0}: {1}".format(key,value))
+# for key, value in Valut.items():
+#   print("{0}: {1}".format(key,value))
