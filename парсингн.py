@@ -11,7 +11,9 @@ VAR=[
     "Euro",
     "Kazakhstani Tenge"
     ]
-Valut={} 
+Valut={
+    "USD":1
+} 
 
 if table :
     rows = table.find_all('tr')
